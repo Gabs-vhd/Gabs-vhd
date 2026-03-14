@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=120&section=header&text=Bem-vindo,%20Aventureiro!&fontSize=35&animation=fadeIn&fontAlignY=35" alt="Cabeçalho Animado: Bem-vindo" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=3399ff&height=120&section=header&text=Bem-vindo,%20Aventureiro!&fontSize=35&animation=fadeIn" />
 </p>
 
 <table border="0" cellpadding="10" cellspacing="0" align="center">
   <tr>
     <td width="300px" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/Gabs-vhd/Gabs-vhd/main/paladino.png" width="300px" alt="Gabs-vhd, Paladino do Silício" style="border-radius: 10px;" />
+      <img src="paladino.png" width="300px" alt="Gabs-vhd, Paladino do Silício" style="border-radius: 10px; border: 2px solid #DAA520;" />
       <br><br>
-      <h3><b>Gabs-vhd</b></h3>
-      <p><i>Paladino do Silício & Engenheiro de Computação</i></p>
+      <h3><b>Gabriel Tondolo</b></h3>
+      <p><i>"Simulando o futuro, um transistor por vez."</i></p>
       <hr>
       <p align="left">
         ⚔️ <b>Classe:</b> Paladino de Hardware<br>
@@ -35,16 +35,22 @@
 
       <h3><b>Pontos de Experiência (GitHub Stats)</b></h3>
       <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=Gabs-vhd&show_icons=true&theme=tokyonight&hide_border=true&title_color=DAA520&text_color=e0e0e0&icon_color=DAA520&bg_color=1a1b26&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"alt="Estatísticas Gerais do GitHub" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Gabs-vhd&show_icons=true&theme=gruvbox&hide_border=true&title_color=DAA520&icon_color=DAA520" width="100%"/>
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabs-vhd&layout=compact&theme=tokyonight&hide_border=true&title_color=DAA520&text_color=e0e0e0&icon_color=DAA520&bg_color=1a1b26" alt="Linguagens mais usadas" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabs-vhd&layout=compact&theme=gruvbox&hide_border=true&title_color=DAA520&icon_color=DAA520" width="100%"/>
       </p>
-
     </td>
   </tr>
 </table>
 
+<hr>
 <p align="center">
-  <br><hr><br>
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=80&section=footer" alt="Rodapé Animado" width="100%"/>
+  <img src="https://i.ibb.co/L50Hk2k/pixel-mimic-chest.gif" width="50px" />
+  <br>
+  <b>Cuidado! Baú Mímico detectado guardando Tesouros (Repositórios RPG)</b>
+</p>
+
+<p align="center">
+  <br>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=3399ff&height=80&section=footer" width="100%"/>
 </p>
