@@ -31,15 +31,13 @@
 <td width="500" valign="top">
 <h2 align="center">📜 Ficha de Atributos</h2>
 <br>
-<h3><b>Habilidades Passivas</b></h3>
+<h3><b>📖 Grimório de Runas</b></h3>
 <p align="left">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=fff" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+<img src="https://skillicons.dev/icons?i=latex,py,matlab,r,arduino,docker,c,vscode,linux&theme=dark" />
 <br>
 <img src="https://img.shields.io/badge/VHDL-ED1C24?style=for-the-badge&logo=xilinx&logoColor=fff" />
-<img src="https://img.shields.io/badge/Spice-FF0000?style=for-the-badge&logo=kicad&logoColor=fff" />
-<br>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=fff" />
+<img src="https://img.shields.io/badge/Virtuoso-003764?style=for-the-badge&logo=cadence&logoColor=fff" />
+<img src="https://img.shields.io/badge/LTspice-FF0000?style=for-the-badge&logo=kicad&logoColor=fff" />
 </p>
 <br>
 <h3><b>Pontos de Experiência</b></h3>
@@ -57,6 +55,7 @@
 <p align="center">
 <img src="mimico.gif" width="700" />
 <br>
+<b>Cuidado! Baú Mímico detectado guardando Tesouros</b>
 </p>
 
 </div>
