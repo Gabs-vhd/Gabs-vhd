@@ -5,7 +5,7 @@
 <table border="0" cellpadding="10" cellspacing="0" align="center">
   <tr>
     <td width="300px" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/Gabs-vhd/Gabs-vhd/main/images/paladino.png" width="300px" alt="Gabs-vhd, Paladino do Silício" style="border-radius: 10px;" />
+      <img src="https://raw.githubusercontent.com/Gabs-vhd/Gabs-vhd/main/paladino.png" width="300px" alt="Gabs-vhd, Paladino do Silício" style="border-radius: 10px;" />
       <br><br>
       <h3><b>Gabs-vhd</b></h3>
       <p><i>Paladino do Silício & Engenheiro de Computação</i></p>
