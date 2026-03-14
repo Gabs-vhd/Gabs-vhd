@@ -19,9 +19,13 @@
 <p><i>"Simulando o futuro, um transistor por vez."</i></p>
 <hr>
 <div align="left">
-⚔️ <b>Classe:</b> Paladino de Hardware<br>
-🎓 <b>Guilda:</b> UFSM (Eng. Comp.)<br>
-🔬 <b>Subclasse:</b> Pesquisador de Microeletrônica
+👤 <b>Raça:</b> Humano<br>
+🆙 <b>Nível:</b> 8/10<br>
+⚔️ <b>Classe:</b> Paladino<br>
+🛡️ <b>Arquétipo:</b> Sistemas Eletrônicos Integrados<br>
+📜 <b>Antecedentes:</b> Biólogo<br>
+⚖️ <b>Alinhamento:</b> Neutro-Bom<br>
+🏰 <b>Guilda:</b> Gmicro
 </div>
 </td>
 <td width="500" valign="top">
