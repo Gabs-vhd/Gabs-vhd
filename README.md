@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-<img src="cafebar.png" alt="HP Café" width="400" />
+<img src="cafebar.png" alt="HP Café" width="600" />
 </p>
 
 <br>
