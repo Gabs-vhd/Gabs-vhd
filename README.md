@@ -15,7 +15,6 @@
         🎓 <b>Guilda:</b> UFSM (Eng. Comp.)<br>
         🔬 <b>Subclasse:</b> Pesquisador de Microeletrônica
         <br><br>
-        ❤️ <b>HP (Café):</b><br>
         <img src="cafebar.png" alt="HP (Café): 85/100" width="100%" />
       </div>
     </td>
@@ -48,7 +47,6 @@
 
 <hr>
 <p align="center">
-  <img src="mimico.gif" width="60px" />
+  <img src="mimico.gif" width="300px" />
   <br>
-  <b>Cuidado! Baú Mímico detectado guardando Tesouros (Repositórios RPG)</b>
 </p>
