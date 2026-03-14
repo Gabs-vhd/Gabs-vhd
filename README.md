@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header_gotico.png" alt="Bem-vindo, Aventureiro!" width="100%" />
+  <img src="intro.png" alt="Bem-vindo, Aventureiro!" width="100%" />
 </p>
 
 <table border="0" cellpadding="10" cellspacing="0" align="center">
