@@ -1,27 +1,32 @@
-<div align="center" style="background-color: #f4e4bc; padding: 20px; border: 5px solid #8b4513; border-radius: 15px; color: #2e1a05; font-family: serif;">
+<div align="center">
 
 <img src="intro.png" alt="Bem-vindo Aventureiro" width="100%" />
 
+<br>
+
+<div align="center">
+  <p>❤️ <b>HP (Café)</b></p>
+  <img src="cafebar.png" alt="HP Café" width="400px" />
+</div>
+
 <br><br>
 
-<table border="0" cellpadding="10" cellspacing="0" align="center" style="background: transparent;">
+<table border="0" cellpadding="10" cellspacing="0" align="center">
   <tr>
     <td width="300px" align="center" valign="top">
-      <img src="paladino.png" width="300px" style="border-radius: 10px; border: 3px solid #8b4513;" />
+      <img src="paladino.png" width="300px" style="border-radius: 10px; border: 3px solid #DAA520;" />
       <br><br>
-      <h3 style="color: #5d2906;"><b>Gabriel Tondolo</b></h3>
-      <img src="cafebar.png" alt="HP Café" width="100%" />
+      <h3><b>Gabriel Tondolo</b></h3>
       <p><i>"Simulando o futuro, um transistor por vez."</i></p>
-      <hr style="border: 0.5px solid #8b4513;">
-      <div align="left" style="color: #2e1a05;">
+      <hr>
+      <div align="left">
         ⚔️ <b>Classe:</b> Paladino de Hardware<br>
         🎓 <b>Guilda:</b> UFSM (Eng. Comp.)<br>
         🔬 <b>Subclasse:</b> Pesquisador de Microeletrônica
-        <br><br>
       </div>
     </td>
 
-    <td width="500px" valign="top" style="color: #2e1a05;">
+    <td width="500px" valign="top">
       <h2 align="center">📜 Ficha de Atributos</h2>
       <br>
       <h3><b>Habilidades Passivas (Tech Stack)</b></h3>
@@ -37,20 +42,21 @@
       <br>
       <h3><b>Pontos de Experiência (GitHub Stats)</b></h3>
       <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=Gabs-vhd&show_icons=true&theme=gruvbox&hide_border=true&title_color=8b4513&icon_color=8b4513&bg_color=f4e4bc" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Gabs-vhd&show_icons=true&theme=gruvbox&hide_border=true&title_color=DAA520&icon_color=DAA520" width="100%"/>
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabs-vhd&layout=compact&theme=gruvbox&hide_border=true&title_color=8b4513&icon_color=8b4513&bg_color=f4e4bc" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabs-vhd&layout=compact&theme=gruvbox&hide_border=true&title_color=DAA520&icon_color=DAA520" width="100%"/>
       </p>
     </td>
   </tr>
 </table>
 
 <br>
-<hr style="border: 0.5px solid #8b4513;">
+<hr>
 
 <p align="center">
-  <img src="mimico.gif" width="700px" />
+  <img src="mimico.gif" width="200px" />
   <br>
+  <b>Cuidado! Baú Mímico detectado guardando Tesouros</b>
 </p>
 
 </div>
