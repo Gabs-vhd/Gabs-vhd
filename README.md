@@ -16,7 +16,6 @@
 <img src="paladino.png" width="300" style="border-radius:10px;border:3px solid #DAA520;" />
 <br><br>
 <h3><b>Gabriel Tondolo</b></h3>
-<p><i>"Simulando o futuro, um transistor por vez."</i></p>
 <hr>
 <div align="left">
 👤 <b>Raça:</b> Humano<br>
